@@ -228,6 +228,7 @@ void home(){
     for(int i=0;i<5;i++){
     	if(option==1){
             global();
+            loadingSetup();
     		username();
             game();
             break;
@@ -241,10 +242,10 @@ void loadingSetup(){
     system("color E");
     gotoxy(31,10); cout << "==============================================================================";
     gotoxy(31,11); cout << "                                                                              ";
-    gotoxy(31,12); cout << "                                                                              ";
-    gotoxy(31,13); cout << "                                                                              ";
-    gotoxy(31,14); cout << "                                                                              "; 
-    gotoxy(31,15); cout << "                                                                              ";
+    gotoxy(31,12); cout << "                              _   _____________                               ";
+    gotoxy(31,13); cout << "                             / \\/ /  __/   __/                               ";
+    gotoxy(31,14); cout << "                            /     / _/ _\\  \\                                "; 
+    gotoxy(31,15); cout << "                           / _/\\/_/ /____/                                   ";
     gotoxy(31,16); cout << "                                                                              ";
     gotoxy(31,17); cout << "                                                                              ";
     gotoxy(31,18); cout << "==============================================================================";
