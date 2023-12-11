@@ -72,11 +72,7 @@ void gameover(){
 	cout<<"\t\t--------------------------"<<endl<<endl;
 	cout<<"\t\tPress Y/y to back to menu.  ";
 	getch();
-	cin >> option;
-	if(option == 'Y' || option == 'y'){
-		return home();
-	}
-	
+
 }
 void tepi(){
     for(int i=0; i<SCREEN_HEIGHT; i++){
