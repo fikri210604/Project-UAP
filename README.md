@@ -2,11 +2,11 @@
 Projek ini merupakan tugas yang diberikan untuk memenuhi nilai Ujian Akhir Praktikkum (UAP)
 
 Projek ini merukapan projek tim yang dikerjakan oleh 3 orang yaitu :
-1. Ahmad Fikri Hanif
+1. Ahmad Fikri Hanif (2317051061)
    - Sebagai coder yang mengembangkan game
-2. Anindita Tri Mulya
+2. Anindita Tri Mulia (2317051064)
    - Memberikan ide dan gagasan untuk pembuatan game
-3. Okta Safitri
+3. Okta Safitri (2317051013)
    - Sebagai designer yang mendesign game agar memiliki tampilan yang menarik
   
 Game ini merupakan game mobil. Pada game ini, seorang pemain diharuskan menghindari mobil. Setiap menghindari mobil, pemain tersebut mendapatkan point 1 dan apabila kalah maka akan langsung game over.
